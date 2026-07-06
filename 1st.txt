@@ -1,1 +1,2 @@
 All is well 2
+this is 2nd line in 1st branch
